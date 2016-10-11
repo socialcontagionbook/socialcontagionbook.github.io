@@ -2,6 +2,10 @@
 layout: index
 ---
 
-# Test
+# About
 
-Jekyll test
+# Timeline
+
+# Confirmed Authors
+
+# Tentative Table of Contents
