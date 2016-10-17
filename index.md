@@ -33,6 +33,7 @@ If you're lazy, you can download the package directly via [this link](http://res
 * Hernan Makse
 * Fil Menczer
 * Sandy Pentland
+* Mason Porter
 * Walter Quattrociocchi
 * Sean Taylor
 
