@@ -23,10 +23,12 @@ including the [style guide](http://resource-cms.springer.com/springer-cms/rest/v
 (Listed in alphabeical order)
 
 * James Bagrow
+* Johan Bollen
 * Damon Centola
 * Peter Dodds
 * Alessandro Flammini
 * James Gleeson
+* Bruno Gonçalves
 * Petter Holme
 * Hernan Makse
 * Fil Menczer
