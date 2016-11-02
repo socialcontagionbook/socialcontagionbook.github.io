@@ -30,11 +30,13 @@ including the [style guide](http://resource-cms.springer.com/springer-cms/rest/v
 * James Gleeson
 * Bruno Gonçalves
 * Petter Holme
+* Marton Karsai
 * Hernan Makse
 * Fil Menczer
 * Sandy Pentland
 * Mason Porter
 * Walter Quattrociocchi
+* Niels Rosenquist
 * Sean Taylor
 
 # Tentative Table of Contents
