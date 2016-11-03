@@ -20,7 +20,7 @@ including the [style guide](http://resource-cms.springer.com/springer-cms/rest/v
 
 
 # Confirmed Authors
-(Listed in alphabeical order)
+(Listed in alphabetical order)
 
 * James Bagrow
 * Johan Bollen
