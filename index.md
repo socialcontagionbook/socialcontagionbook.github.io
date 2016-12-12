@@ -23,9 +23,12 @@ including the [style guide](http://resource-cms.springer.com/springer-cms/rest/v
 (Listed in alphabetical order)
 
 * James Bagrow
+* Alain Barrat
 * Johan Bollen
+* Ciro Cattuto
 * Damon Centola
 * Peter Dodds
+* Emilio Ferrara
 * Alessandro Flammini
 * James Gleeson
 * Bruno Gonçalves
