@@ -3,7 +3,33 @@ layout: index
 ---
 
 # About
-This page contains information for authors of the forthcoming _Spreading Dynamics in Social Systems_. Below, you can find the timeline, info on the LaTeX template, an overview of your co-authors, and the tentative outline. 
+
+This page contains information for authors of the forthcoming _Spreading Dynamics in Social Systems_. Below, you can find the current Table of Contents, timeline, and the LaTeX template. 
+
+# Table of Contents (To be confirmed)
+
+* **Part 1**: _Introduction to spreading in social systems_
+  * Damon Centola, TBD
+  * Peter Sheridan Dodds: Understanding the global spreading condition for simple models of spreading
+* **Part 2**: _Models and Theories_
+  * James Gleeson and Mason Porter: Message-passing methods for complex contagions
+  * Peter Sheridan Dodds: Generalized contagion: Unifying simple models of social and biological spreading
+  * Azadeh Nematzadeh, Alessandro Flammini, Emilio Ferrara, and Yong-Yeol Ahn: The effect of communities on spreading time in information diffusion
+  * Petter Holme: Probing empirical contact networks by simulation of spreading dynamics
+  * Sen Pei, Flaviano Morone, and Hernan Makse: Influencer identification in complex networks
+* **Part 3**: _Observational studies_
+  * Ciro Cattuto and Alain Barrat: TBD
+  * Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: Service adoption spreading in online social networks
+  * Walter Quattrociocchi: (Mis)information spreading on Facebook
+  * Pikmai Hui, Lilian Weng, Alireza Sahami, YY Ahn, Filippo Menczer: Predicting viral memes
+  * Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, Alessandro Flammini: Attention on Weak Ties in Social and Communication Networks
+  * Emilio Ferrara: Effects of social bots on information diffusion 
+  * Johan Bollen and Bruno Goncalves: Network Happiness: How Social Interactions Impact our Well Being
+  * James P Bagrow: Examining human dynamics by contrasting normal and anomalous activities during normal and anomalous events
+  * J Niels Rosenquist, TBD
+* **Part 4**: _Controlled studies_
+  * Sean Taylor: Measuring Social Influence with Randomized Experiments
+  * Sandy Pentland: TBD
 
 # Timeline
 
@@ -18,52 +44,3 @@ We will be using _Springer's_ LaTeX package for typesetting manuscripts. You can
 
 including the [style guide](http://resource-cms.springer.com/springer-cms/rest/v1/content/990/data/v7/Manuscript+guidelines+for+English+books), etc. We're using the LaTeX package for contributed books and if you're lazy, you can download the package directly via [this link](http://resource-cms.springer.com/springer-cms/rest/v1/content/20568/data/v1/contributed+books).
 
-
-# Confirmed Authors
-(Listed in alphabetical order)
-
-* James Bagrow
-* Alain Barrat
-* Johan Bollen
-* Ciro Cattuto
-* Damon Centola
-* Peter Dodds
-* Emilio Ferrara
-* Alessandro Flammini
-* James Gleeson
-* Bruno Gonçalves
-* Petter Holme
-* Marton Karsai
-* Hernan Makse
-* Fil Menczer
-* Sandy Pentland
-* Mason Porter
-* Walter Quattrociocchi
-* Niels Rosenquist
-* Sean Taylor
-
-# Tentative Table of Contents
-
-* **Part 1**: _Introduction to spreading in social systems_
-  * Introduction to social spreading processes (similarities and difference compared to epidemic spreading)
-  * Modeling complex contagion 
-  * Measuring contagion: Homophily and contagion 
-* **Part 2**: _Models and Theories_
-  * Theories of complex contagion
-  * Linear threshold model
-  * Generalized contagion model
-  * Finding influencers
-* **Part 3**: _Observational studies_
-  * SocioPatterns - measuring spreading in face to face interactions
-  * Online information spreading
-  * Spreading of health behaviors
-  * Predicting viral memes on Twitter 
-  * Spreading of information during emergencies
-  * Spreading of memes on Facebook
-  * Service adoption
-* **Part 4**: _Controlled studies_
-  * Filter bubble
-  * Spreading of voting behaviors
-  * Mood contagion
-  * Fitness-centered social intervention design
-  * Identifying social influence with controlled experiments
