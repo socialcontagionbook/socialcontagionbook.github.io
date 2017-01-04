@@ -8,10 +8,10 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 # Table of Contents (To be confirmed)
 
-* **Part 1**: _Introduction to spreading in social systems_
+## **Part 1**: _Introduction to spreading in social systems_
   * Damon Centola, TBD
   * Peter Sheridan Dodds: Understanding the global spreading condition for simple models of spreading
-* **Part 2**: _Models and Theories_
+## **Part 2**: _Models and Theories_
   * James Gleeson and Mason Porter: Message-passing methods for complex contagions
   * Peter Sheridan Dodds: Generalized contagion: Unifying simple models of social and biological spreading
   * Azadeh Nematzadeh, Alessandro Flammini, Emilio Ferrara, and Yong-Yeol Ahn: The effect of communities on spreading time in information diffusion
