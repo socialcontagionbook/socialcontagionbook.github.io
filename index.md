@@ -10,32 +10,33 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 ## **Part 1**: _Introduction to spreading in social systems_
 
-* Damon Centola, TBD
-* Peter Sheridan Dodds: Understanding the global spreading condition for simple models of spreading
+* Damon Centola: _TBD_
+* Peter Sheridan Dodds: _Understanding the global spreading condition for simple models of spreading_
 
 ## **Part 2**: _Models and Theories_
 
-* James Gleeson and Mason Porter: Message-passing methods for complex contagions
-* Peter Sheridan Dodds: Generalized contagion: Unifying simple models of social and biological spreading
-* Azadeh Nematzadeh, Alessandro Flammini, Emilio Ferrara, and Yong-Yeol Ahn: The effect of communities on spreading time in information diffusion
-* Petter Holme: Probing empirical contact networks by simulation of spreading dynamics
-* Sen Pei, Flaviano Morone, and Hernan Makse: Influencer identification in complex networks
+* James Gleeson and Mason Porter: _Message-passing methods for complex contagions_
+* Peter Sheridan Dodds: _Generalized contagion: Unifying simple models of social and biological spreading_
+* Azadeh Nematzadeh, Alessandro Flammini, Emilio Ferrara, and Yong-Yeol Ahn: _The effect of communities on spreading time in information diffusion_
+* Petter Holme: _Probing empirical contact networks by simulation of spreading dynamics_
+* Sen Pei, Flaviano Morone, and Hernan Makse: _Influencer identification in complex networks_
 
 ## **Part 3**: _Observational studies_
 
-* Ciro Cattuto and Alain Barrat: TBD
-* Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: Service adoption spreading in online social networks
-* Walter Quattrociocchi: (Mis)information spreading on Facebook
-* Pikmai Hui, Lilian Weng, Alireza Sahami, YY Ahn, Filippo Menczer: Predicting viral memes
-* Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, Alessandro Flammini: Attention on Weak Ties in Social and Communication Networks
-* Emilio Ferrara: Effects of social bots on information diffusion 
-* Johan Bollen and Bruno Goncalves: Network Happiness: How Social Interactions Impact our Well Being
-* James P Bagrow: Examining human dynamics by contrasting normal and anomalous activities during normal and anomalous events
-* J Niels Rosenquist, TBD
+* Ciro Cattuto and Alain Barrat: _TBD_
+* Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: _Service adoption spreading in online social networks_
+* Walter Quattrociocchi: _(Mis)information spreading on Facebook_
+* Pikmai Hui, Lilian Weng, Alireza Sahami, YY Ahn, Filippo Menczer: _Predicting viral memes_
+* Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, Alessandro Flammini: _Attention on Weak Ties in Social and Communication Networks_
+* Emilio Ferrara: _Measuring the effect of social bots on information diffusion in social media_
+* Johan Bollen and Bruno Goncalves: _Network Happiness: How Social Interactions Impact our Well Being_
+* James P Bagrow: _Examining human dynamics by contrasting normal and anomalous activities during normal and anomalous events_
+* J Niels Rosenquist: _TBD_
 
 ## **Part 4**: _Controlled studies_
-* Sean Taylor: Measuring Social Influence with Randomized Experiments
-* Sandy Pentland: TBD
+
+* Sean Taylor: _Measuring Social Influence with Randomized Experiments_
+* Sandy Pentland: _TBD_
 
 # Timeline
 
