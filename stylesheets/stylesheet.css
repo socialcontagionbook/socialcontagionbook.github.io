@@ -28,7 +28,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-height: 1;
+	line-height: 1.0;
 }
 ol, ul {
 	list-style: none;
@@ -50,10 +50,11 @@ table {
 body {
   font-family: 'Palatino', 'Baskerville', 'Georgia', serif;
   font-size: 1em;
-  line-height: 1.5;
+  line-height: 1.7;
   color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
+  background: white;
 }
 
 a {
@@ -89,6 +90,7 @@ header h2 {
 #container {
   min-height: 595px;
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+  background: white;
 }
 
 .inner {
@@ -249,7 +251,7 @@ h1 {
 #main_content h1 {
   text-transform: uppercase;
   font-family: 'Avenir Next', 'Avenir', 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 24px; font-weight: 600;
+  font-size: 24px; font-weight: 700;
   line-height: 2em;
 }  
 
@@ -258,14 +260,15 @@ h2 {
   margin-left: 5px;
   font-size: 18px;
   font-weight: bold;
-  color: #303030;
+  color: #a0a0a0;
 }
 
 h3 {
   margin-bottom: 8px;
-  font-size: 16px;
+  margin-left: 10px;
+  font-size: 14px;
   font-weight: bold;
-  color: #d5000d;
+  /*color: #d5000d;*/
 }
 
 h4 {
