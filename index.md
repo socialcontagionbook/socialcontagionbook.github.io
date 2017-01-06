@@ -11,12 +11,12 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 ## **Part 1**: _Introduction to spreading in social systems_
 
 * Damon Centola: _TBD_
-* Peter Sheridan Dodds: [_Understanding the global spreading condition for simple models of spreading_](#dodds1)
+* Peter Sheridan Dodds: _Understanding the global spreading condition for simple models of spreading_
 
 ## **Part 2**: _Models and Theories_
 
 * James Gleeson and Mason Porter: [_Message-passing methods for complex contagions_](#gleeson)
-* Peter Sheridan Dodds: [_Generalized contagion: Unifying simple models of social and biological spreading_](#dodds2)
+* Peter Sheridan Dodds: _Generalized contagion: Unifying simple models of social and biological spreading_
 * Azadeh Nematzadeh, Alessandro Flammini, Emilio Ferrara, and Yong-Yeol Ahn: [_The effect of communities on spreading time in information diffusion_](#nematzadeh)
 * Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](#holme)
 * Sen Pei, Flaviano Morone, and Hernan Makse: [_Influencer identification in complex networks_](#pei)
@@ -24,7 +24,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 ## **Part 3**: _Observational studies_
 
 * Ciro Cattuto and Alain Barrat: _TBD_
-* Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: [_Service adoption spreading in online social networks_](#iniquez)
+* Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: [_Service adoption spreading in online social networks_](#iniquez)
 * Walter Quattrociocchi: [_(Mis)information spreading on Facebook_](#quattrociocchi)
 * Pikmai Hui, Lilian Weng, Alireza Sahami, YY Ahn, Filippo Menczer: [_Predicting viral memes_](#hui)
 * Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, Alessandro Flammini: [_Attention on Weak Ties in Social and Communication Networks_](#weng)
@@ -132,7 +132,7 @@ network and socioeconomic system.
 
 ### Ciro Cattuto and Alain Barrat: _TBD_
 
-### <a name="iniguez"></a>Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: _Service adoption spreading in online social networks_
+### <a name="iniguez"></a>Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: _Service adoption spreading in online social networks_
 
 Adoption of innovations, products or online services is commonly interpreted as
 a spreading process that is arguably driven by social influence, external
