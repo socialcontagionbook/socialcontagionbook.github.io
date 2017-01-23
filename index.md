@@ -11,7 +11,8 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 ## **Part 1**: _Introduction to spreading in social systems_
 
 * Damon Centola: _TBD_
-* Peter Sheridan Dodds: _Understanding the global spreading condition for simple models of spreading_
+* Peter Sheridan Dodds: [_Understanding the global spreading condition for simple models of spreading_](#dodds1)
+* Elizabeth Ogburn
 
 ## **Part 2**: _Models and Theories_
 
@@ -35,8 +36,9 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 ## **Part 4**: _Controlled studies_
 
-* Sean Taylor: [_Measuring Social Influence with Randomized Experiments_](#taylor)
+* Sean Taylor, Dean Eckles, and Eytan Bakshy: [_Measuring Social Influence with Randomized Experiments_](#taylor)
 * Yan Leng, Xiaowen Dong, and Alex Pentland: [_Mapping Behavior Influence using Matched and Balanced Samples_](#pentland)
+* Robert Bond, Jaime Settle, Chris Fariss, and Jason Jones
 
 # Timeline
 
