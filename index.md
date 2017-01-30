@@ -38,7 +38,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 * Sean Taylor, Dean Eckles, and Eytan Bakshy: [_Measuring Social Influence with Randomized Experiments_](#taylor)
 * Yan Leng, Xiaowen Dong, and Alex Pentland: [_Mapping Behavior Influence using Matched and Balanced Samples_](#pentland)
-* Robert Bond, Jaime Settle, Chris Fariss, and Jason Jones
+* Robert Bond, Jaime Settle, Chris Fariss, and Jason Jones: [_Network Experiments through Academic-Industry Collaboration_](#bond)
 
 # Timeline
 
@@ -271,4 +271,17 @@ are often easier to use for large population studies.  We illustrate this work
 in two cellphone based studies where we track the behavioral effects of
 exposure within a social network.
 
+### <a name="bond"></a> Robert Bond, Chris Fariss, Jason Jones, Jaime Settle: _Network Experiments through Academic-Industry Collaboration_
+
+Our main goal in this chapter is to summarize and describe our work on
+get-out-the-vote experiments run on the Facebook social media platform.  We ran
+randomized experiments and observed both direct effects – a message on Election
+Day made Facebook users more likely to vote – and cascading effects in the
+social network – the friends of treated users became more likely to vote.
+Collaborating with Facebook vastly increased the scope of our research project
+from what we originally planned.  We will also discuss why academic
+collaboration with industry is not only important in general, but particularly
+important for understanding complex social systems.  We will conclude with a
+discussion of some of the opportunities we see for scientific advancement in
+this area.
 
