@@ -26,7 +26,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 * Ciro Cattuto and Alain Barrat: _TBD_
 * Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: [_Service adoption spreading in online social networks_](#iniquez)
-* Walter Quattrociocchi: [_(Mis)information spreading on Facebook_](#quattrociocchi)
+* Walter Quattrociocchi: [_(Mis)information spreading on Facebook_](#quattrociocchi) \[[arXiv link](https://arxiv.org/abs/1706.09494)\]
 * Pikmai Hui, Lilian Weng, Alireza Sahami, YY Ahn, Filippo Menczer: [_Predicting viral memes_](#hui)
 * Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, Alessandro Flammini: [_Attention on Weak Ties in Social and Communication Networks_](#weng)
 * Emilio Ferrara: [_Measuring the effect of social bots on information diffusion in social media_](#ferrara)
