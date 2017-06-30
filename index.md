@@ -11,15 +11,15 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 ## **Part 1**: _Introduction to spreading in social systems_
 
 * Doug Guilbeault, Joshua Becker and Damon Centola: _Complex contagions: A decade in review_
-* Peter Sheridan Dodds: [_Understanding the global spreading condition for simple models of spreading_](#dodds1). Here is an [arXiv link](https://arxiv.org/abs/1705.02419).
-* Elizabeth Ogburn: _Challenges to estimating contagion effects from observational data_. [Here is the arXiv version](https://arxiv.org/abs/1706.08440).
+* Peter Sheridan Dodds: [_Understanding the global spreading condition for simple models of spreading_](#dodds1). \[[arXiv link](https://arxiv.org/abs/1705.02419)\]
+* Elizabeth Ogburn: _Challenges to estimating contagion effects from observational data_. \[[arXiv link](https://arxiv.org/abs/1706.08440)\]
 
 ## **Part 2**: _Models and Theories_
 
 * James Gleeson and Mason Porter: [_Message-passing methods for complex contagions_](#gleeson)
 * Peter Sheridan Dodds: _Generalized contagion: Unifying simple models of social and biological spreading_
 * Azadeh Nematzadeh, Alessandro Flammini, Emilio Ferrara, and Yong-Yeol Ahn: [_The effect of communities on spreading time in information diffusion_](#nematzadeh)
-* Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](#holme). Here is an [arXiv link](https://arxiv.org/abs/1706.09095).
+* Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](#holme). \[[arXiv link](https://arxiv.org/abs/1706.09095)\]
 * Sen Pei, Flaviano Morone, and Hernan Makse: [_Influencer identification in complex networks_](#pei)
 
 ## **Part 3**: _Observational studies_
