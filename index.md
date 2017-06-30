@@ -24,7 +24,6 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 ## **Part 3**: _Observational studies_
 
-* Ciro Cattuto and Alain Barrat: _TBD_
 * Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: [_Service adoption spreading in online social networks_](#iniquez)
 * Walter Quattrociocchi: [_(Mis)information spreading on Facebook_](#quattrociocchi) \[[arXiv link](https://arxiv.org/abs/1706.09494)\]
 * Pikmai Hui, Lilian Weng, Alireza Sahami, YY Ahn, Filippo Menczer: [_Predicting viral memes_](#hui)
@@ -32,7 +31,6 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 * Emilio Ferrara: [_Measuring the effect of social bots on information diffusion in social media_](#ferrara)
 * Johan Bollen and Bruno Goncalves: [_Network Happiness: How Social Interactions Impact our Well Being_](#bollen)
 * James P Bagrow: [_Examining human dynamics by contrasting normal and anomalous activities during normal and anomalous events_](#bagrow)
-* J Niels Rosenquist: _TBD_
 
 ## **Part 4**: _Controlled studies_
 
