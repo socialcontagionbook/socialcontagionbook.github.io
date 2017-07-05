@@ -24,7 +24,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 ## **Part 3**: _Observational studies_
 
-* Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: [_Service adoption spreading in online social networks_](#iniquez)
+* Gerardo Iñiguez, Zhongyuan Ruan, Kimmo Kaski, János Kertész, Márton Karsai: [_Service adoption spreading in online social networks_](#iniquez) \[[arXiv link](https://arxiv.org/abs/1706.09777)\]
 * Fabiana Zollo and Walter Quattrociocchi: [_(Mis)information spreading on Facebook_](#quattrociocchi) \[[arXiv link](https://arxiv.org/abs/1706.09494)\]
 * Pikmai Hui, Lilian Weng, Alireza Sahami, YY Ahn, Filippo Menczer: [_Predicting viral memes_](#hui)
 * Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, Alessandro Flammini: [_Attention on Weak Ties in Social and Communication Networks_](#weng)
