@@ -20,7 +20,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 * Peter Sheridan Dodds: _Generalized contagion: Unifying simple models of social and biological spreading_
 * Azadeh Nematzadeh, Alessandro Flammini, Emilio Ferrara, and Yong-Yeol Ahn: [_The effect of communities on spreading time in information diffusion_](#nematzadeh)
 * Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](#holme). \[[arXiv link](https://arxiv.org/abs/1706.09095)\]
-* Sen Pei, Flaviano Morone, and Hernan Makse: [_Influencer identification in complex networks_](#pei). \[[arXiv link](https://arxiv.org/abs/1707.01594)\]
+* Sen Pei, Flaviano Morone, and Hernan Makse: [Theories for influencer identification in complex networks](#pei). \[[arXiv link](https://arxiv.org/abs/1707.01594)\]
 
 ## **Part 3**: _Observational studies_
 
