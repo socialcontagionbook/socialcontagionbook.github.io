@@ -40,9 +40,9 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 # Timeline
 
-* --**Feb 1st**, 2017: Manuscripts due.--
-* --**Mar 1st**, 2017: Reviewed manuscripts returned to authors.--
-* --**Apr 1st**, 2017: Updated manuscripts due.--
+* ~~**Feb 1st**, 2017: Manuscripts due.~~
+* ~~**Mar 1st**, 2017: Reviewed manuscripts returned to authors.~~
+* ~~**Apr 1st**, 2017: Updated manuscripts due.~~
 
 # Formatting
 We will be using _Springer's_ LaTeX package for typesetting manuscripts. You can find full info on this site
