@@ -10,7 +10,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 ## **Part 1**: _Introduction to spreading in social systems_
 
-* Doug Guilbeault, Joshua Becker and Damon Centola: _Complex contagions: A decade in review_
+* Doug Guilbeault, Joshua Becker and Damon Centola: [_Complex contagions: A decade in review_](#centola).
 * Peter Sheridan Dodds: [_Understanding the global spreading condition for simple models of spreading_](#dodds1). \[[arXiv link](https://arxiv.org/abs/1705.02419)\]
 * Elizabeth Ogburn: _Challenges to estimating contagion effects from observational data_. \[[arXiv link](https://arxiv.org/abs/1706.08440)\]
 
