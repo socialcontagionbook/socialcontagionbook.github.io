@@ -40,9 +40,9 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 # Timeline
 
-* **Feb 1st**, 2017: Manuscripts due.
-* **Mar 1st**, 2017: Reviewed manuscripts returned to authors.
-* **Apr 1st**, 2017: Updated manuscripts due. 
+* --**Feb 1st**, 2017: Manuscripts due.--
+* --**Mar 1st**, 2017: Reviewed manuscripts returned to authors.--
+* --**Apr 1st**, 2017: Updated manuscripts due.--
 
 # Formatting
 We will be using _Springer's_ LaTeX package for typesetting manuscripts. You can find full info on this site
@@ -55,7 +55,7 @@ including the [style guide](http://resource-cms.springer.com/springer-cms/rest/v
 
 ## **Part 1**: _Introduction to spreading in social systems_
 
-### <a name="centola"></a> Damon Centola: _TBD_
+### <a name="centola"></a> Doug Guilbeault, Joshua Becker and Damon Centola: _Complex contagions: A decade in review_
 
 ### <a name="dodds1"></a> Peter Sheridan Dodds: _Understanding the global spreading condition for simple models of spreading_
 
@@ -123,8 +123,6 @@ systems, including online social platform, scientific publication, brain
 network and socioeconomic system.
 
 ## **Part 3**: _Observational studies_
-
-### Ciro Cattuto and Alain Barrat: _TBD_
 
 ### <a name="iniguez"></a>Gerardo Iñiguez, Kimmo Kaski, János Kertész and Márton Karsai: _Service adoption spreading in online social networks_
 
@@ -228,8 +226,6 @@ emergency paper I did, present some other data mining for emergencies work I
 have left, perhaps review some other work people have done on Twitter during
 events, etc. I have a result about the friendship paradox that may be able to
 go in as well.
-
-### J Niels Rosenquist: _TBD_
 
 ## **Part 4**: _Controlled studies_
 
