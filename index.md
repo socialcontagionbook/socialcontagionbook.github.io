@@ -18,7 +18,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 * Peter Sheridan Dodds: _Generalized contagion: Unifying simple models of social and biological spreading_
 * James Gleeson and Mason Porter: [_Message-passing methods for complex contagions_](#gleeson). \[[arXiv link](https://arxiv.org/abs/1703.08046)\]
-* Azadeh Nematzadeh, Nathaniel Rodriguez, Alessandro Flammini, and Yong-Yeol Ahn: [_The effect of communities on spreading time in information diffusion_](#nematzadeh)
+* Azadeh Nematzadeh, Nathaniel Rodriguez, Alessandro Flammini, and Yong-Yeol Ahn: [_Optimal modularity in complex contagion_](#nematzadeh)
 * Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](#holme). \[[arXiv link](https://arxiv.org/abs/1706.09095)\]
 * Sen Pei, Flaviano Morone, and Hernan Makse: [Theories for influencer identification in complex networks](#pei). \[[arXiv link](https://arxiv.org/abs/1707.01594)\]
 
@@ -90,15 +90,9 @@ Dodds and Watts in 2004. Give a cleaner explanation of the global spreading
 condition that was originally put forward.
 
 
-### <a name="nematzadeh"></a>Azadeh Nematzadeh, Alessandro Flammini, Emilio Ferrara, and Yong-Yeol Ahn: _The effect of communities on spreading time in information diffusion_
+### <a name="nematzadeh"></a>Azadeh Nematzadeh, Nathaniel Rodriguez, Alessandro Flammini, and Yong-Yeol Ahn: _Optimal modularity in complex contagion_
 
-We study the time needed for an information cascade to complete. We consider
-the scenario in which multiple exposures are needed to "infect" users, and we
-assume an explicit community structure in the social network underlying the
-process of diffusion. The non trivial behavior of  cascades' duration as
-function of the infra-cluster connectivity reveals details of the process of
-diffusion and helps elucidating the role of communities in (pro/de)moting the
-spreading.
+In this chapter, we apply the theoretical framework introduced in the previous chapter to study the impact of modularity in the spreading of complex contagion. In particular, we focus on the phenomenon of optimal modularity, where global cascade occurs when the network exhibit just the right amount of modularity. Here we further generalize the original finding by investigating the case where there are multiple communities and the seeds are randomly distributed across the network. Then we also provide insights into the temporal aspects of the optimal modularity phenomenon. 
 
 
 ### <a name="holme"></a> Petter Holme: _Probing empirical contact networks by simulation of spreading dynamics_
