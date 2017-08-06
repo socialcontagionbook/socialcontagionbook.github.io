@@ -16,8 +16,8 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 ## **Part 2**: _Models and Theories_
 
-* James Gleeson and Mason Porter: [_Message-passing methods for complex contagions_](#gleeson). \[[arXiv link](https://arxiv.org/abs/1703.08046)\]
 * Peter Sheridan Dodds: _Generalized contagion: Unifying simple models of social and biological spreading_
+* James Gleeson and Mason Porter: [_Message-passing methods for complex contagions_](#gleeson). \[[arXiv link](https://arxiv.org/abs/1703.08046)\]
 * Azadeh Nematzadeh, Alessandro Flammini, Emilio Ferrara, and Yong-Yeol Ahn: [_The effect of communities on spreading time in information diffusion_](#nematzadeh)
 * Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](#holme). \[[arXiv link](https://arxiv.org/abs/1706.09095)\]
 * Sen Pei, Flaviano Morone, and Hernan Makse: [Theories for influencer identification in complex networks](#pei). \[[arXiv link](https://arxiv.org/abs/1707.01594)\]
