@@ -28,7 +28,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 * Fabiana Zollo and Walter Quattrociocchi: [_(Mis)information spreading on Facebook_](#quattrociocchi) \[[arXiv link](https://arxiv.org/abs/1706.09494)\]
 * Pikmai Hui, Lilian Weng, Alireza Sahami, YY Ahn, Filippo Menczer: [_Predicting viral memes_](#hui)
 * Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, Alessandro Flammini: [_Attention on Weak Ties in Social and Communication Networks_](#weng)
-* Emilio Ferrara: [_Measuring the effect of social bots on information diffusion in social media_](#ferrara)
+* Emilio Ferrara: [_Measuring the effect of social bots on information diffusion in social media_](#ferrara) \[[arXiv link](https://arxiv.org/abs/1708.08134)\]
 * Johan Bollen and Bruno Goncalves: [_Network Happiness: How Social Interactions Impact our Well Being_](#bollen)
 * James P Bagrow: [_Examining human dynamics by contrasting normal and anomalous activities during normal and anomalous events_](#bagrow)
 
