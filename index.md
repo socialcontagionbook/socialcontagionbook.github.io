@@ -11,12 +11,12 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 ## **Part 1**: _Introduction to spreading in social systems_
 
 * Doug Guilbeault, Joshua Becker and Damon Centola: [_Complex contagions: A decade in review_](#centola).
-* Peter Sheridan Dodds: [_Understanding the global spreading condition for simple models of spreading_](#dodds1). \[[arXiv link](https://arxiv.org/abs/1705.02419)\]
+* Peter Sheridan Dodds: [_A simple person’s approach to understanding the contagion condition for spreading processes on generalized random networks_](#dodds1). \[[arXiv link](https://arxiv.org/abs/1705.02419)\]
 * Elizabeth Ogburn: _Challenges to estimating contagion effects from observational data_. \[[arXiv link](https://arxiv.org/abs/1706.08440)\]
 
 ## **Part 2**: _Models and Theories_
 
-* Peter Sheridan Dodds: _Generalized contagion: Unifying simple models of social and biological spreading_
+* Peter Sheridan Dodds: _Slightly generalized Generalized Contagion: Unifying simple models of biological and social spreading_
 * James Gleeson and Mason Porter: [_Message-passing methods for complex contagions_](#gleeson). \[[arXiv link](https://arxiv.org/abs/1703.08046)\]
 * Azadeh Nematzadeh, Nathaniel Rodriguez, Alessandro Flammini, and Yong-Yeol Ahn: [_Optimal modularity in complex contagion_](#nematzadeh)
 * Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](#holme). \[[arXiv link](https://arxiv.org/abs/1706.09095)\]
@@ -25,18 +25,18 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 ## **Part 3**: _Observational studies_
 
 * Gerardo Iñiguez, Zhongyuan Ruan, Kimmo Kaski, János Kertész, Márton Karsai: [_Service adoption spreading in online social networks_](#iniquez) \[[arXiv link](https://arxiv.org/abs/1706.09777)\]
-* Fabiana Zollo and Walter Quattrociocchi: [_(Mis)information spreading on Facebook_](#quattrociocchi) \[[arXiv link](https://arxiv.org/abs/1706.09494)\]
-* Pikmai Hui, Lilian Weng, Alireza Sahami, YY Ahn, Filippo Menczer: [_Predicting viral memes_](#hui)
-* Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, Alessandro Flammini: [_Attention on Weak Ties in Social and Communication Networks_](#weng)
+* Fabiana Zollo and Walter Quattrociocchi: [_Misinformation spreading on Facebook_](#quattrociocchi) \[[arXiv link](https://arxiv.org/abs/1706.09494)\]
+* Pikmai Hui, Lilian Weng, Alireza Sahami, Yong-Yeol Ahn, and Filippo Menczer: [_Scalable detection of viral memes from diffusion patterns_](#hui)
+* Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, and Alessandro Flammini: [_Attention on Weak Ties in Social and Communication Networks_](#weng)
 * Emilio Ferrara: [_Measuring the effect of social bots on information diffusion in social media_](#ferrara) \[[arXiv link](https://arxiv.org/abs/1708.08134)\]
-* Johan Bollen and Bruno Goncalves: [_Network Happiness: How Social Interactions Impact our Well Being_](#bollen)
+* Johan Bollen and Bruno Goncalves: [_Network Happiness: How online social interactions relate to our well being_](#bollen)
 * James P Bagrow: [_Examining human dynamics by contrasting normal and anomalous activities during normal and anomalous events_](#bagrow)
 
 ## **Part 4**: _Controlled studies_
 
-* Sean Taylor and Dean Eckles: [_Measuring Social Influence with Randomized Experiments_](#taylor)
-* Yan Leng, Xiaowen Dong, and Alex Pentland: [_Mapping Behavior Influence using Matched and Balanced Samples_](#pentland)
-* Robert Bond, Jaime Settle, Chris Fariss, and Jason Jones: [_Network Experiments through Academic-Industry Collaboration_](#bond)
+* Sean J. Taylor and Dean Eckles: [_Randomized Experiments to detect and estimate social influence_](#taylor)
+* Yan Leng, Xiaowen Dong, Esteban Moro, and Alex Pentland: [_Mapping Behavior Influence using Matched and Balanced Samples_](#pentland)
+* Robert Bond, Christopher J. Fariss, Jason J. Jones, and Jaime Settle: [_Network Experiments through Academic-Industry Collaboration_](#bond)
 
 # Formatting
 We will be using _Springer's_ LaTeX package for typesetting manuscripts. You can find full info on this site
