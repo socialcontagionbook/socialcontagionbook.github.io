@@ -27,7 +27,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 * Gerardo Iñiguez, Zhongyuan Ruan, Kimmo Kaski, János Kertész, Márton Karsai: [_Service adoption spreading in online social networks_](#iniquez) \[[arXiv link](https://arxiv.org/abs/1706.09777)\]
 * Fabiana Zollo and Walter Quattrociocchi: [_Misinformation spreading on Facebook_](#quattrociocchi) \[[arXiv link](https://arxiv.org/abs/1706.09494)\]
 * Pikmai Hui, Lilian Weng, Alireza Sahami, Yong-Yeol Ahn, and Filippo Menczer: [_Scalable detection of viral memes from diffusion patterns_](#hui)
-* Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, and Alessandro Flammini: [_Attention on Weak Ties in Social and Communication Networks_](#weng)
+* Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, and Alessandro Flammini: [_Attention on Weak Ties in Social and Communication Networks_](#weng) \[[arXiv link](https://arxiv.org/abs/1505.02399)\]
 * Emilio Ferrara: [_Measuring the effect of social bots on information diffusion in social media_](#ferrara) \[[arXiv link](https://arxiv.org/abs/1708.08134)\]
 * Johan Bollen and Bruno Goncalves: [_Network Happiness: How online social interactions relate to our well being_](#bollen)
 * James P Bagrow: [_Examining human dynamics by contrasting normal and anomalous activities during normal and anomalous events_](#bagrow)
