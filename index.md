@@ -34,7 +34,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 ## **Part 4**: _Controlled studies_
 
-* Sean J. Taylor and Dean Eckles: [_Randomized Experiments to detect and estimate social influence_](#taylor)
+* Sean J. Taylor and Dean Eckles: [_Randomized Experiments to detect and estimate social influence_](#taylor) \[[arXiv link](https://arxiv.org/abs/1709.09636)\]
 * Yan Leng, Xiaowen Dong, Esteban Moro, and Alex Pentland: [_Mapping Behavior Influence using Matched and Balanced Samples_](#pentland)
 * Robert Bond, Christopher J. Fariss, Jason J. Jones, and Jaime Settle: [_Network Experiments through Academic-Industry Collaboration_](#bond)
 
