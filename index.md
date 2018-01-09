@@ -10,7 +10,7 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 ## **Part 1**: _Introduction to spreading in social systems_
 
-* Doug Guilbeault, Joshua Becker and Damon Centola: [_Complex contagions: A decade in review_](#centola).
+* Doug Guilbeault, Joshua Becker and Damon Centola: [_Complex contagions: A decade in review_](#centola). \[[arXiv link](https://arxiv.org/abs/1710.07606\]
 * Peter Sheridan Dodds: [_A simple person’s approach to understanding the contagion condition for spreading processes on generalized random networks_](#dodds1). \[[arXiv link](https://arxiv.org/abs/1705.02419)\]
 * Elizabeth Ogburn: _Challenges to estimating contagion effects from observational data_. \[[arXiv link](https://arxiv.org/abs/1706.08440)\]
 
@@ -37,6 +37,10 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 * Sean J. Taylor and Dean Eckles: [_Randomized Experiments to detect and estimate social influence_](#taylor) \[[arXiv link](https://arxiv.org/abs/1709.09636)\]
 * Yan Leng, Xiaowen Dong, Esteban Moro, and Alex Pentland: [_Mapping Behavior Influence using Matched and Balanced Samples_](#pentland)
 * Robert Bond, Christopher J. Fariss, Jason J. Jones, and Jaime Settle: [_Network Experiments through Academic-Industry Collaboration_](#bond)
+
+## **Part 5**: Some thoughts by Sune and YY
+
+* Sune Lehmann and Yong-Yeol Ahn. Spreading in Social Systems: Reflections \[[arXiv link](https://arxiv.org/abs/1801.02236)\]
 
 # Formatting
 We will be using _Springer's_ LaTeX package for typesetting manuscripts. You can find full info on this site
