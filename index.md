@@ -34,11 +34,11 @@ This page contains information about [_Spreading Dynamics in Social Systems_](ht
 
 ## **Part 4**: _Controlled studies_
 
-* Sean J. Taylor and Dean Eckles: [_Randomized Experiments to detect and estimate social influence_](#taylor) \[[arXiv link](https://arxiv.org/abs/1709.09636)\]
-* Yan Leng, Xiaowen Dong, Esteban Moro, and Alex Pentland: [_Mapping Behavior Influence using Matched and Balanced Samples_](#pentland)
-* Robert Bond, Christopher J. Fariss, Jason J. Jones, and Jaime Settle: [_Network Experiments through Academic-Industry Collaboration_](#bond)
+* Sean J. Taylor and Dean Eckles: [_Randomized Experiments to detect and estimate social influence_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_16) \[[arXiv link](https://arxiv.org/abs/1709.09636)\]
+* Yan Leng, Xiaowen Dong, Esteban Moro, and Alex Pentland: [_Mapping Behavior Influence using Matched and Balanced Samples_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_17)
+* Robert Bond, Christopher J. Fariss, Jason J. Jones, and Jaime Settle: [_Network Experiments through Academic-Industry Collaboration_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_18)
 
 ## **Part 5**: Some thoughts by Sune and YY
 
-* Sune Lehmann and Yong-Yeol Ahn. Spreading in Social Systems: Reflections \[[arXiv link](https://arxiv.org/abs/1801.02236)\]
+* Sune Lehmann and Yong-Yeol Ahn. [_Spreading in Social Systems: Reflections_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_19) \[[arXiv link](https://arxiv.org/abs/1801.02236)\]
 
