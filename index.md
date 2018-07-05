@@ -10,9 +10,9 @@ This page contains information about [_Spreading Dynamics in Social Systems_](ht
 
 ## **Part 1**: _Introduction to spreading in social systems_
 
-* Doug Guilbeault, Joshua Becker and Damon Centola: [_Complex contagions: A decade in review_](#centola). \[[arXiv link](https://arxiv.org/abs/1710.07606)\]
-* Peter Sheridan Dodds: [_A simple person’s approach to understanding the contagion condition for spreading processes on generalized random networks_](#dodds1). \[[arXiv link](https://arxiv.org/abs/1705.02419)\]
-* Elizabeth Ogburn: _Challenges to estimating contagion effects from observational data_. \[[arXiv link](https://arxiv.org/abs/1706.08440)\]
+* Doug Guilbeault, Joshua Becker and Damon Centola: [_Complex contagions: A decade in review_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_1). \[[arXiv link](https://arxiv.org/abs/1710.07606)\]
+* Peter Sheridan Dodds: [_A simple person’s approach to understanding the contagion condition for spreading processes on generalized random networks_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_2). \[[arXiv link](https://arxiv.org/abs/1705.02419)\]
+* Elizabeth Ogburn: [_Challenges to estimating contagion effects from observational data_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_3). \[[arXiv link](https://arxiv.org/abs/1706.08440)\]
 
 ## **Part 2**: _Models and Theories_
 
