@@ -4,7 +4,7 @@ layout: index
 
 # About
 
-This page contains information about [_Spreading Dynamics in Social Systems_](https://link.springer.com/book/10.1007/978-3-319-77332-2) published by Springer. Below, you can find the Table of Contents as well as links to the arXiv version of the chapter. 
+This page contains information about [_Complex Spreading Phenomena in Social Systems_](https://link.springer.com/book/10.1007/978-3-319-77332-2) published by Springer. Below, you can find the Table of Contents as well as links to the arXiv version of the chapter. 
 
 # Table of Contents 
 
