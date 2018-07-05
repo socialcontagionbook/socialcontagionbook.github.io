@@ -16,11 +16,11 @@ This page contains information about [_Spreading Dynamics in Social Systems_](ht
 
 ## **Part 2**: _Models and Theories_
 
-* Peter Sheridan Dodds: _Slightly generalized Generalized Contagion: Unifying simple models of biological and social spreading_
-* James Gleeson and Mason Porter: [_Message-passing methods for complex contagions_](#gleeson). \[[arXiv link](https://arxiv.org/abs/1703.08046)\]
-* Azadeh Nematzadeh, Nathaniel Rodriguez, Alessandro Flammini, and Yong-Yeol Ahn: [_Optimal modularity in complex contagion_](#nematzadeh). \[[arXiv link](https://arxiv.org/abs/1806.00074)\]
-* Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](#holme). \[[arXiv link](https://arxiv.org/abs/1706.09095)\]
-* Sen Pei, Flaviano Morone, and Hernan Makse: [Theories for influencer identification in complex networks](#pei). \[[arXiv link](https://arxiv.org/abs/1707.01594)\]
+* Peter Sheridan Dodds: [_Slightly generalized Generalized Contagion: Unifying simple models of biological and social spreading_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_4)
+* James Gleeson and Mason Porter: [_Message-passing methods for complex contagions_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_5). \[[arXiv link](https://arxiv.org/abs/1703.08046)\]
+* Azadeh Nematzadeh, Nathaniel Rodriguez, Alessandro Flammini, and Yong-Yeol Ahn: [_Optimal modularity in complex contagion_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_6). \[[arXiv link](https://arxiv.org/abs/1806.00074)\]
+* Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_7). \[[arXiv link](https://arxiv.org/abs/1706.09095)\]
+* Sen Pei, Flaviano Morone, and Hernan Makse: [Theories for influencer identification in complex networks](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_8). \[[arXiv link](https://arxiv.org/abs/1707.01594)\]
 
 ## **Part 3**: _Observational studies_
 
