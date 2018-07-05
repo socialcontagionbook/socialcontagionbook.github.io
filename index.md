@@ -42,10 +42,3 @@ This page contains information for authors of the forthcoming _Spreading Dynamic
 
 * Sune Lehmann and Yong-Yeol Ahn. Spreading in Social Systems: Reflections \[[arXiv link](https://arxiv.org/abs/1801.02236)\]
 
-# Formatting
-We will be using _Springer's_ LaTeX package for typesetting manuscripts. You can find full info on this site
-
-[https://www.springer.com/gp/authors-editors/book-authors-editors/manuscript-preparation/5636](https://www.springer.com/gp/authors-editors/book-authors-editors/manuscript-preparation/5636),
-
-including the [style guide](http://resource-cms.springer.com/springer-cms/rest/v1/content/990/data/v7/Manuscript+guidelines+for+English+books), etc. We're using the LaTeX package for contributed books and if you're lazy, you can download the package directly via [this link](http://resource-cms.springer.com/springer-cms/rest/v1/content/20568/data/v1/contributed+books).
-
