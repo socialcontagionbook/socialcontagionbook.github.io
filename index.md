@@ -16,7 +16,7 @@ This page contains information about [_Spreading Dynamics in Social Systems_](ht
 
 ## **Part 2**: _Models and Theories_
 
-* Peter Sheridan Dodds: [_Slightly generalized Generalized Contagion: Unifying simple models of biological and social spreading_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_4)
+* Peter Sheridan Dodds: [_Slightly generalized Generalized Contagion: Unifying simple models of biological and social spreading_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_4) \[[arXiv link](https://arxiv.org/abs/1708.09697)\]
 * James Gleeson and Mason Porter: [_Message-passing methods for complex contagions_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_5). \[[arXiv link](https://arxiv.org/abs/1703.08046)\]
 * Azadeh Nematzadeh, Nathaniel Rodriguez, Alessandro Flammini, and Yong-Yeol Ahn: [_Optimal modularity in complex contagion_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_6). \[[arXiv link](https://arxiv.org/abs/1806.00074)\]
 * Petter Holme: [_Probing empirical contact networks by simulation of spreading dynamics_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_7). \[[arXiv link](https://arxiv.org/abs/1706.09095)\]
@@ -30,12 +30,12 @@ This page contains information about [_Spreading Dynamics in Social Systems_](ht
 * Lilian Weng, Márton Karsai, Nicola Perra, Filippo Menczer, and Alessandro Flammini: [_Attention on Weak Ties in Social and Communication Networks_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_12) \[[arXiv link](https://arxiv.org/abs/1505.02399)\]
 * Emilio Ferrara: [_Measuring the effect of social bots on information diffusion in social media_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_13) \[[arXiv link](https://arxiv.org/abs/1708.08134)\]
 * Johan Bollen and Bruno Goncalves: [_Network Happiness: How online social interactions relate to our well being_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_14)
-* James P Bagrow: [_Examining human dynamics by contrasting normal and anomalous activities during normal and anomalous events_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_15)
+* James P Bagrow: [_Information Spreading During Emergencies and Anomalous Events_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_15) \[[arXiv link](https://arxiv.org/abs/1703.07362)\]
 
 ## **Part 4**: _Controlled studies_
 
 * Sean J. Taylor and Dean Eckles: [_Randomized Experiments to detect and estimate social influence_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_16) \[[arXiv link](https://arxiv.org/abs/1709.09636)\]
-* Yan Leng, Xiaowen Dong, Esteban Moro, and Alex Pentland: [_Mapping Behavior Influence using Matched and Balanced Samples_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_17)
+* Yan Leng, Xiaowen Dong, Esteban Moro, and Alex Pentland: [_The Rippling Effect of Social Influence via Phone Communication Network_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_17)
 * Robert Bond, Christopher J. Fariss, Jason J. Jones, and Jaime Settle: [_Network Experiments through Academic-Industry Collaboration_](https://link.springer.com/chapter/10.1007/978-3-319-77332-2_18)
 
 ## **Part 5**: Some thoughts by Sune and YY
